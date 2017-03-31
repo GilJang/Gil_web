@@ -1,0 +1,26 @@
+
+
+
+div {
+    display: block;
+}
+Inherited from body.code-snippets-visible
+skeleton.css:123
+body {
+    font-size: 1.5em;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #222;
+}
+Inherited from html
+skeleton.css:121
+html {
+    font-size: 62.5%;
+}
+normalize.css:9
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}

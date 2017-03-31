@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono');
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+
+.container {
+    margin: auto;
+    width: 50%;
+    min-width: 500px;
+    font-family: 'EB Garamond', serif;
+    padding-top: 30px;
+}
+
+.this{
+    font-family: 'EB Garamond', serif;
+    font-size: 12px;
+    margin: auto;
+    width: 50%
+}
